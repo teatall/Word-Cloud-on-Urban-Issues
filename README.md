@@ -54,5 +54,11 @@ TITLE-ABS-KEY ( "urban" )  OR  TITLE-ABS-KEY ( "city" ) AND TITLE-ABS-KEY ( "ris
 
 ![urban-issues-top-100-keywords.png](https://cdn.jsdelivr.net/gh/teatall/Word-Cloud-on-Urban-Issues/urban-issues-top-100-keywords.png)
 
+若仅考虑作者关键词，结果如下：
+
+![urban-issues-top-100-author-keywords.png](https://cdn.jsdelivr.net/gh/teatall/Word-Cloud-on-Urban-Issues/urban-issues-top-100-author-keywords.png)
+
 
 以上结果可见：https://wordart.com/h31kvidp5p9s/urban-issues
+
+若仅考虑作者关键词，结果可见：https://wordart.com/mymng647ff1c/urban-issues-top-100-author-keywords
