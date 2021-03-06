@@ -48,4 +48,11 @@ TITLE-ABS-KEY ( "urban" )  OR  TITLE-ABS-KEY ( "city" ) AND TITLE-ABS-KEY ( "ris
 
 按照上文所述方法，最终入选文献的数量（经去重）为7358篇，见[`data-dub-removed.csv`](data-dub-removed.csv)。提取出文献的作者关键词（`author keywords`）和索引关键词（`index keywords`）总计36161个，见[`data-all-keywords.csv`](data-all-keywords.csv)。
 
-在对36161个关键词分析，合并英文中单复数的分开统计后，抽取出现频次最高的前100个关键词，见[`data-top-100-keywords.csv`](data-top-100-keywords.csv)
+在对36161个关键词分析，合并英文中单复数的分开统计后，抽取出现频次最高的前100个关键词，见[`data-top-100-keywords.csv`](data-top-100-keywords.csv)。
+
+将以上关键词倒入wordart.com，并根据出现频次设置字体大小，生成结果如下：
+
+![urban-issues-top-100-keywords.png](urban-issues-top-100-keywords.png)
+
+
+以上结果可见：https://wordart.com/h31kvidp5p9s/urban-issues
