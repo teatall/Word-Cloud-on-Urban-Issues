@@ -52,7 +52,7 @@ TITLE-ABS-KEY ( "urban" )  OR  TITLE-ABS-KEY ( "city" ) AND TITLE-ABS-KEY ( "ris
 
 将以上关键词倒入wordart.com，并根据出现频次设置字体大小，生成结果如下：
 
-![urban-issues-top-100-keywords.png](urban-issues-top-100-keywords.png)
+![urban-issues-top-100-keywords.png](https://cdn.jsdelivr.net/gh/teatall/Word-Cloud-on-Urban-Issues/urban-issues-top-100-keywords.png)
 
 
 以上结果可见：https://wordart.com/h31kvidp5p9s/urban-issues
